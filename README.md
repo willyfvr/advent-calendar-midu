@@ -1,4 +1,4 @@
-# Advent JS Calenar - Midu Dev
+# Advent JS Calendar - Midu Dev
 
 ![title](img/image.png)
 
