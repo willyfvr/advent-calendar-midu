@@ -1,5 +1,8 @@
 # Instructions
 
+Santa's factory has started to receive the toy production list.
+Each line indicates which toy must be manufactured and how many units.
+
 The elves, as always, have messed things up: they wrote down some toys with quantities that don't make any sense.
 
 You have a list of objects with this structure:
